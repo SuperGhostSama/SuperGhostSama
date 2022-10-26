@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
-- 💬 Ask me about **Mmanga recommendations**
+- 💬 Ask me about **Manga recommendations**
 
 - 📫 How to reach me **salaheddinehanaoui@gmail.com**
 
