@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superghostsama&label=Profile%20views&color=0e75b6&style=flat" alt="superghostsama" /> </p>
 
-- 🔭 I’m currently working on [Origin Gamer Admin](https://github.com/SuperGhostSama/Origin-Gamer-Admin-.git)
+- 🔭 I’m currently working on [AWS Quizz App](https://github.com/SuperGhostSama/Quizizy---Frontend)
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
