@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blog CultureDev](https://github.com/SuperGhostSama/Blog-CultureDev.to)
 
-- 🌱 I’m currently learning **JavaScript and PHP**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **Manga recommendations**
 
