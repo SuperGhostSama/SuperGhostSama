@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QuickDrive](https://github.com/SuperGhostSama/QuickDrive)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Manga recommendations**
 
