@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superghostsama&label=Profile%20views&color=0e75b6&style=flat" alt="superghostsama" /> </p>
 
-- 🔭 I’m currently working on [QuickDrive](https://github.com/SuperGhostSama/QuickDrive)
+- 🔭 I’m currently working on [Resourcium Optima](https://github.com/SuperGhostSama/Resourcium-Optima)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Manga recommendations**
 
