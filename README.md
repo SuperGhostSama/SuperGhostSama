@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superghostsama&label=Profile%20views&color=0e75b6&style=flat" alt="superghostsama" /> </p>
 
-- 🔭 I’m currently working on [Resourcium Optima](https://github.com/SuperGhostSama/Resourcium-Optima)
+- 🔭 I’m currently working on [TaskFlow](https://github.com/SuperGhostSama/TaskFlow)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Security**
 
 - 💬 Ask me about **Manga recommendations**
 
