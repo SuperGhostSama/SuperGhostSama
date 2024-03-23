@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superghostsama&label=Profile%20views&color=0e75b6&style=flat" alt="superghostsama" /> </p>
 
-- 🔭 I’m currently working on [AFTAS-D0CK3R](https://github.com/SuperGhostSama/AFTAS-D0CK3R)
+- 🔭 I’m currently working on [SWAY3I](https://github.com/SuperGhostSama/Sway3i)
 
 - 🌱 I’m currently learning **Spring Security**
 
